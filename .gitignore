@@ -1,2 +1,49 @@
 # Executable files
 *.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+
+# Debug and Release directories
+Debug/
+Release/
+build/
+dist/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.nux
+
+# Compiler outputs
+*.d
+*.gch
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# macOS specific
+.AppleDouble
+.LSOverride
+._*
+
+# Windows specific
+$RECYCLE.BIN/
+*.lnk
