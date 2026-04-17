@@ -47,3 +47,7 @@ Thumbs.db
 # Windows specific
 $RECYCLE.BIN/
 *.lnk
+
+#image
+images/
+*.png
